@@ -1,7 +1,5 @@
 // Author: Rahul Bulsara
 // Date of Last Modification: 10/12/2020
-// Course: CS111B
-// Instructor: Constance Conner 
 // Assignment #4
 // File Name: ConnerBoxes.java
 // This program will create a series of black and white boxes with a random red box, to form an illusion
